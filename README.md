@@ -12,8 +12,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:([https://your-solution-url.com](https://github.com/EnidaShehu/qr-code-component-main))
+- Live Site URL:([https://your-live-site-url.com](https://enidashehu.github.io/qr-code-component-main/))
 
 ### Built with
 
@@ -25,6 +25,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - (https://www.udemy.com/course/the-complete-web-development-bootcamp/) - This is an amazing course which helped me with the solution. I'd recommend it to anyone still learning this concept.
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@EnidaShehu](https://www.frontendmentor.io/profile/EnidaShehu)
